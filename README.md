@@ -48,11 +48,12 @@ Data source: [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/d
 
 ## 3 - Solution Strategy ( Estratégia de Solução )
 CRISP-DM é a abreviação de Cross Industry Standard Process for Data Mining, que pode ser traduzido como Processo Padrão Inter-Indústrias para Mineração de Dados. É um modelo de processo de mineração de dados que descreve abordagens comumente usadas por especialistas em mineração de dados para atacar problemas.
+
 <img src="img/crisp.png" width="500">
 
 Como base para este projeto usaremos  o CRISP, uma vez realizado todo o primeiro ciclo do CRISP, nós podemos fazer outras interações, criar novas features, gerar novos insights, melhorar a performance do modelo, tudo com objetivo de entregar mais valor para a empresa. Também é importante durante todo o processo, conversar com os interessados no projeto, a fim de mantê-los informados, e setar as expectativas.
 
-Todos os códigos e visualizações deste projeto podem ser seguidos neste [Notebook](Notebook.ipynb).
+Todos os códigos e visualizações deste projeto podem ser seguidos neste [Notebook](store_sales_prediction-final.ipynb).
 
 
 ### 3.1 - Data Description ( Descrição dos dados )
@@ -115,8 +116,8 @@ Todos os códigos e visualizações deste projeto podem ser seguidos neste [Note
 
 
 1. **Average Model**: Modelo de média. Ele será usado para avaliar a performance dos demais modelos.
-2. **Linear Regression Model**: A regressão linear modela a relação entre variáveis ​​ajustando uma equação linear aos dados observados.
-3. **Lasso Regression Model**: Método de análise de regressão que realiza seleção e regularização de variáveis ​​para melhorar a precisão da previsão.
+2. **Linear Regression Model**: A regressão linear modela a relação entre variáveis ajustando uma equação linear aos dados observados.
+3. **Lasso Regression Model**: Método de análise de regressão que realiza seleção e regularização de variáveis para melhorar a precisão da previsão.
 4. **Random Forest Regression Model**: Algoritmo que cria uma combinação (ensemble) de árvores de decisão.
 5. **XGBoost Regression model**: Algoritmo de aprendizado de máquina, baseado em árvore de decisão e que utiliza uma estrutura de Gradient boosting.
 
@@ -183,7 +184,7 @@ Todos os códigos e visualizações deste projeto podem ser seguidos neste [Note
 <img src="img/table_scenario.png">
 
 
-> O conjunto de dados com as previsões de cenário podem ser acessados neste documento. [Predictions Scenario](predictions_scenario.csv)
+> O conjunto de dados com as previsões de cenário podem ser acessados neste documento. [Predictions Scenario](data/predictions_scenario.csv)
 
 
 ### 3.10 - Model Deployment
