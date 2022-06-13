@@ -1,4 +1,4 @@
-# Rossmann Sales Prediction
+# Rossmann Sales Forecasting
 <img src="img/rossmann.jpg" >
 
 
