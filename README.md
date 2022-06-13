@@ -1,5 +1,6 @@
 # Rossmann Sales Prediction
-![alt text](https://github.com/jlcunha/rossmann_sales_prediction/blob/master/img/rossmann.jpg?raw=true?raw=true?raw=true)
+<img src="img/rossmann.jpg" >
+
 
 **Obs:** Este projeto tem fins educacionais.
 
