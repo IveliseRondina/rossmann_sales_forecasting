@@ -248,3 +248,5 @@ Data Scientist em formação
 [Portfolio de Projetos](https://jlcunha.github.io/portfolio_projetos/)
 
 [GitHub Profile](https://github.com/jlcunha/)
+
+[Linked In](http://www.linkedin.com/in/lucas-dacunha/)
