@@ -6,7 +6,7 @@ import os
 from flask import Flask, request, Response
 
 # constants
-TOKEN = '5530100366:AAEZz0RkontISoO1sj0u6sL4fbT3XQmZBwI'
+TOKEN = 'tokenphone'
 
 # Info about the Bot
 #https://api.telegram.org/bot5530100366:AAEZz0RkontISoO1sj0u6sL4fbT3XQmZBwI/getMe
